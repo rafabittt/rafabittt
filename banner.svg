@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rafael Bittencourt: Software developer, Apple apps and SaaS">
+  <rect width="1200" height="300" rx="20" fill="#F6F3EC"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#E6E0D4"/>
+  <g stroke="#E6E0D4" stroke-width="1">
+    <line x1="60" y1="92" x2="1140" y2="92"/><line x1="60" y1="148" x2="1140" y2="148"/>
+    <line x1="60" y1="204" x2="1140" y2="204"/><line x1="60" y1="260" x2="1140" y2="260"/>
+  </g>
+  <rect x="68" y="108" width="470" height="34" rx="6" fill="#FF8DC0" opacity="0.55"/>
+  <text x="64" y="138" font-family="ui-rounded, 'SF Pro Rounded', -apple-system, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#15182B">Rafael Bittencourt</text>
+  <text x="64" y="196" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="30" fill="#5C5B69">Software developer · Apple apps and SaaS</text>
+  <text x="64" y="244" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="24" fill="#2F45FF">Assinei, a subscription tracker for iPhone: available now.</text>
+  <path d="M64 160 q 60 12 120 0 t 120 0 t 120 0" stroke="#2F45FF" stroke-width="3" fill="none" stroke-linecap="round" transform="translate(0,-2)"/>
+</svg>
